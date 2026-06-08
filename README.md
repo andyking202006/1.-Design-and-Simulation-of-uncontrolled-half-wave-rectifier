@@ -56,7 +56,6 @@ Vin = 220 Vrms at 50Hz (312 Vp)
 
 ## Output
 <img width="1919" height="1027" alt="image" src="https://github.com/user-attachments/assets/ef75beda-3b4e-46dc-93d4-88b5637aa635" />
-
 ## Result
 The half-wave rectifier was successfully simulated in MATLAB Simulink, producing a pulsating DC output from the positive half cycles of the AC input.
 
